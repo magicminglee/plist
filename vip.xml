@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!--vip等级升级所需充值人民币val,days保险箱历史记录保持天数-->
+<BPT>
+	<item lv="0" val="5" days="2">
+	</item>
+	<item lv="1" val="30" days="4">
+		<privilege new="true">享有 VIP 专属勋章</privilege>
+		<privilege new="true">保险箱记录保留 4 天</privilege>
+		<privilege new="true">每日可领救济金 4 次</privilege>
+		<privilege new="true">解锁 VIP 专属表情包</privilege>
+	</item>
+	<item lv="2" val="100" days="4">
+		<privilege>享有 VIP 专属勋章</privilege>
+		<privilege>小喇叭功能解锁</privilege>
+		<privilege>签到小宝箱双倍奖励</privilege>
+		<privilege>保险箱记录保留 4 天</privilege>
+		<privilege>每日可领救济金 4 次</privilege>
+		<privilege>解锁 VIP 专属表情包</privilege>
+	</item>
+	<item lv="3" val="300" days="4">
+		<privilege>享有 VIP 专属勋章</privilege>
+		<privilege>小喇叭功能解锁</privilege>
+		<privilege>签到小宝箱双倍奖励</privilege>
+		<privilege>保险箱记录保留 4 天</privilege>
+		<privilege>每日可领救济金 4 次</privilege>
+		<privilege>解锁 VIP 专属表情包</privilege>
+	</item>
+	<item lv="4" val="500" days="4">
+		<privilege>享有 VIP 专属勋章</privilege>
+		<privilege>小喇叭功能解锁</privilege>
+		<privilege>签到小宝箱双倍奖励</privilege>
+		<privilege>保险箱记录保留 4 天</privilege>
+		<privilege>每日可领救济金 5 次</privilege>
+		<privilege>解锁 VIP 专属表情包</privilege>
+	</item>
+	<item lv="5" val="1000" days="4">
+		<privilege>享有 VIP 专属勋章</privilege>
+		<privilege>小喇叭功能解锁</privilege>
+		<privilege>签到小宝箱双倍奖励</privilege>
+		<privilege new="true">签到中宝箱双倍奖励</privilege>
+		<privilege>保险箱记录保留 4 天</privilege>
+		<privilege>每日可领救济金 5 次</privilege>
+		<privilege>解锁 VIP 专属表情包</privilege>
+	</item>
+	<item lv="6" val="2000" days="8">
+		<privilege>享有 VIP 专属勋章</privilege>
+		<privilege>小喇叭功能解锁</privilege>
+		<privilege>签到小宝箱双倍奖励</privilege>
+		<privilege>签到中宝箱双倍奖励</privilege>
+		<privilege>保险箱记录保留 8 天</privilege>
+		<privilege>每日可领救济金 5 次</privilege>
+		<privilege>解锁 VIP 专属表情包</privilege>
+	</item>
+	<item lv="7" val="5000" days="8">
+		<privilege>享有 VIP 专属勋章</privilege>
+		<privilege>小喇叭功能解锁</privilege>
+		<privilege>签到小宝箱双倍奖励</privilege>
+		<privilege>签到中宝箱双倍奖励</privilege>
+		<privilege>保险箱记录保留 8 天</privilege>
+		<privilege>每日可领救济金 6 次</privilege>
+		<privilege>解锁 VIP 专属表情包</privilege>
+	</item>
+	<item lv="8" val="10000" days="8">
+		<privilege>享有 VIP 专属勋章</privilege>
+		<privilege>小喇叭功能解锁</privilege>
+		<privilege>签到小宝箱双倍奖励</privilege>
+		<privilege>签到中宝箱双倍奖励</privilege>
+		<privilege new="true">签到大宝箱双倍奖励</privilege>
+		<privilege>保险箱记录保留 8 天</privilege>
+		<privilege>每日可领救济金 6 次</privilege>
+		<privilege>解锁 VIP 专属表情包</privilege>
+	</item>
+	<item lv="9" val="20000" days="8">
+		<privilege>享有 VIP 专属勋章</privilege>
+		<privilege>小喇叭功能解锁</privilege>
+		<privilege>签到小宝箱双倍奖励</privilege>
+		<privilege>签到中宝箱双倍奖励</privilege>
+		<privilege>签到大宝箱双倍奖励</privilege>
+		<privilege>保险箱记录保留 8 天</privilege>
+		<privilege>每日可领救济金 6 次</privilege>
+		<privilege>解锁 VIP 专属表情包</privilege>
+	</item>
+	<item lv="10" val="-1" days="8">
+		<privilege>享有 VIP 专属勋章</privilege>
+		<privilege>小喇叭功能解锁</privilege>
+		<privilege>签到小宝箱双倍奖励</privilege>
+		<privilege>签到中宝箱双倍奖励</privilege>
+		<privilege>签到大宝箱双倍奖励</privilege>
+		<privilege new="true">签到超大宝箱双倍奖励</privilege>
+		<privilege>保险箱记录保留 8 天</privilege>
+		<privilege>每日可领救济金 6 次</privilege>
+		<privilege>解锁 VIP 专属表情包</privilege>
+		<privilege new="true">解锁小喇叭专属字体颜色</privilege>
+	</item>
+</BPT>
